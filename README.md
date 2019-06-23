@@ -1,2 +1,2 @@
 # homepage
-WTF project 1
+WTF zadanie domowe
